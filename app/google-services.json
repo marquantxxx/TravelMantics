@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487557212083",
+    "firebase_url": "https://travelmantics-daf07.firebaseio.com",
+    "project_id": "travelmantics-daf07",
+    "storage_bucket": "travelmantics-daf07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487557212083:android:48726d89173fbfd3",
+        "android_client_info": {
+          "package_name": "com.marquant.inc.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487557212083-tlcf2gq7ahncg4m8lf87k8rop0aaeik4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfQ-_uPyK_okxRYsGd7yVrYvJF5NUX-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487557212083-tlcf2gq7ahncg4m8lf87k8rop0aaeik4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
